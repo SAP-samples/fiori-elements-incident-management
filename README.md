@@ -1,5 +1,7 @@
 # Sample Service Used in Tutorials for SAP Fiori Elements Floorplans for OData V4
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fiori-elements-incident-management)](https://api.reuse.software/info/github.com/SAP-samples/fiori-elements-incident-management)
+
 ## Description
 
 This repository contains the sample OData V4 service material for the tutorials provided in the SAP Developer Center.
