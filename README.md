@@ -14,6 +14,15 @@ Refer to the tutorial for further details.
 
 Refer to the tutorial for further details.
 
+## Sample Solution
+
+The branch *sampleSolution* contains a sample solution which represents the final result after completion of all steps from the tutorials
+
+* [Refine the List Report with Additional Annotations](https://developers.sap.com/tutorials/fiori-tools-cap-modify-list-report.html)
+* [Extend the Object Page by Adding More Functionality](https://developers.sap.com/tutorials/fiori-tools-cap-modify-object-page.html)
+
+After checking out the *sampleSolution* branch, execute the command *npm install* followed by the command *cds watch* to run the application.
+
 ## How to obtain support
 
 Project is provided as is. Check out the [SAP Community](https://answers.sap.com) for additional questions.
