@@ -56,7 +56,8 @@ annotate service.Incidents with @(UI : {
         TypeName       : '{i18n>Incident}',
         TypeNamePlural : '{i18n>Incidents}',
         TypeImageUrl   : 'sap-icon://alert',
-        Title          : {Value : title}
+        Title          : {Value : title},
+        Description    : {Value : ID}
     },
 
     //Facets for additional object header information (shown in the object page header)
