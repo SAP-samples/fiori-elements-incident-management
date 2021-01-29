@@ -1,4 +1,5 @@
 using IncidentService as service from '../srv/incidentservice';
+using from '../srv/common';
 
 annotate service.Incidents with @(UI : {
     //basic list report annotations
@@ -82,7 +83,7 @@ annotate service.Incidents with @(UI : {
             },
             {
                 $Type  : 'UI.DataFieldForAnnotation',
-                Target : 'assignedIndividual/@Communication.Contact',
+                Target : 'assignedIndividual
                 Label  : '{i18n>AssignedContact}'
             }
         ]
