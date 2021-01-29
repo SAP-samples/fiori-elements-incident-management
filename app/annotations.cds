@@ -83,7 +83,7 @@ annotate service.Incidents with @(UI : {
             },
             {
                 $Type  : 'UI.DataFieldForAnnotation',
-                Target : 'assignedIndividual
+                Target : 'assignedIndividual/@Communication.Contact',
                 Label  : '{i18n>AssignedContact}'
             }
         ]
