@@ -1,4 +1,5 @@
 using IncidentService as service from '../srv/incidentservice';
+using from '../srv/common';
 
 annotate service.Incidents with @(UI : {
     //basic list report annotations
