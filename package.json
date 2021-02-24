@@ -10,7 +10,7 @@
     "express": "^4"
   },
   "devDependencies": {
-    "@sap/ux-specification": "^1.84.1-20210114094446",
+    "@sap/ux-specification": "latest",
     "sqlite3": "^5"
   },
   "scripts": {
