@@ -27,8 +27,7 @@ annotate service.Incidents with {
     };
   category @Common : {
         Text            : category.name,
-        TextArrangement : #TextOnly,
-        ValueListWithFixedValues
+        TextArrangement : #TextOnly        
     };  
   priority @Common : {
         Text            : priority.name,
