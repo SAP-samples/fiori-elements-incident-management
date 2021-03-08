@@ -28,6 +28,7 @@ annotate service.Incidents with {
   category @Common : {
         Text            : category.name,
         TextArrangement : #TextOnly,
+        //insert your value list here    
         ValueList : {
             $Type :  'Common.ValueListType',
             Label : 'Category',
