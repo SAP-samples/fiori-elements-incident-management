@@ -22,8 +22,9 @@ The branch *sampleSolution* contains a sample solution which represents the fina
 * [Extend the Object Page by Adding More Functionality](https://developers.sap.com/tutorials/fiori-tools-cap-modify-object-page.html)
 
 After checking out the *sampleSolution* branch, execute the command *npm install* followed by the command *cds watch* to run the application.
-Start application --> http://localhost:4004/incidents/webapp/index.html
-Start OPA tests   --> http://localhost:4004/incidents/webapp/test/integration/opaTests.qunit.html
+
+* Start application --> http://localhost:4004/incidents/webapp/index.html
+* Start OPA tests --> http://localhost:4004/incidents/webapp/test/integration/opaTests.qunit.html
 
 ## How to obtain support
 
