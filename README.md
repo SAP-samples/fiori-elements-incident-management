@@ -6,8 +6,6 @@
 
 This repository contains the sample OData V4 service material for the tutorials provided in the SAP Developer Center.
 
-## Description
-
 Refer to the tutorial for further details.
 
 ## Download and Installation
