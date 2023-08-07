@@ -133,7 +133,6 @@ annotate service.Incidents with @(UI : {
             Label         : '{i18n>IncidentProcessFlow}',
             ID            : 'ProcessFlowFacet',
             Target        : 'incidentFlow/@UI.LineItem',
-            ![@UI.Hidden] : isDraft
         }
     ]
 });
