@@ -6,11 +6,15 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@sap/cds": "^7",
+    "@sap/cds": "^9",
     "express": "^4"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
-    "sqlite3": "5.1.5"
+    "@cap-js/sqlite": "^2",
+    "@cap-js/cds-types": "^0.13.0"
   },
   "scripts": {
     "start": "npx cds run",
