@@ -17,8 +17,8 @@
     "@cap-js/cds-types": "^0.13.0"
   },
   "scripts": {
-    "start": "npx cds run",
-    "watch": "npx cds watch"
+    "start": "cds run",
+    "watch": "cds watch"
   },
   "cds": {
     "requires": {
